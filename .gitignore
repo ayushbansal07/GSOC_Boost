@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+boost_1_72_0*
+*.jpg
+*.jpeg
+*.png
